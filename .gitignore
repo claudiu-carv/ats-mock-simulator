@@ -1,3 +1,12 @@
+# AI-generated artifacts
+# Claude / Anthropic outputs
+CLAUDE.md
+CLAUDE_*.md
+
+# OpenAI / ChatGPT style outputs
+CHATGPT.md
+GPT_*.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
